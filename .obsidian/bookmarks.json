@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1718949193663,
+      "path": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1718949209421,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718950230670,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718950247288,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/🌟 Áreas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718950220599,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/✏️ Tareas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718998030955,
+          "path": "600 📂 Archivos/canvas/Matriz de tareas.canvas",
+          "title": "📊 Matriz de tareas"
+        }
+      ],
+      "title": "Dirección"
+    },
+    {
+      "type": "group",
+      "ctime": 1718949217102,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718950011113,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/🗺️ MOCs.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718949547567,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/📝 Notas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718949470794,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/🗃️ Notas literarias.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1718949782896,
+          "path": "500 🛠️ Recursos/510 👁️ Vistas/📌 Recursos bibliográficos.md"
+        }
+      ],
+      "title": "Sistema de notas"
+    }
+  ]
+}

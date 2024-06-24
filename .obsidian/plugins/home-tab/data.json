@@ -1,0 +1,78 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "🧠 Digital Brain",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+      "timestamp": 1719196779657
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🏷️ Etiquetas.md",
+      "timestamp": 1719196778282
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🗺️ MOCs.md",
+      "timestamp": 1719196774003
+    },
+    {
+      "filepath": "600 📂 Archivos/banners/banner-gif01.gif",
+      "timestamp": 1719196648405
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🌟 Áreas.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/✏️ Tareas.md"
+    },
+    {
+      "filepath": "600 📂 Archivos/canvas/Matriz de tareas.canvas"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🗺️ MOCs.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/📝 Notas.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/🗃️ Notas literarias.md"
+    },
+    {
+      "filepath": "500 🛠️ Recursos/510 👁️ Vistas/📌 Recursos bibliográficos.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

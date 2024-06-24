@@ -1,0 +1,21 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "500 🛠️ Recursos/510 👁️ Vistas",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "500 🛠️ Recursos/520 🏷️ Etiquetas",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "",
+      "viewMode": ""
+    }
+  ]
+}

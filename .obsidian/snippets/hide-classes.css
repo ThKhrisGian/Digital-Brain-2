@@ -1,0 +1,17 @@
+.hide-classes--e.is-live-preview {
+  .metadata-property[data-property-key="cssclasses"] {
+    display: none;
+  }
+}
+
+.hide-classes--r.markdown-preview-view {
+  .metadata-property[data-property-key="cssclasses"] {
+    display: none;
+  }
+}
+
+.hide-classes {
+  .metadata-property[data-property-key="cssclasses"] {
+    display: none;
+  }
+}

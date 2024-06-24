@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"3b22dc2fbe43a072","type":"text","text":"## Tareas\n\n```tasks\nnot done\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nexclude sub-items\npriority is none\n```","x":-680,"y":-386,"width":453,"height":773,"color":"#0d0d0d"},
+		{"id":"a6fd3c66f53bb8b3","type":"text","text":"## 🔺 Importante y Urgente (Hacer Ahora)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\ndue before in 7 days\npriority is above none\nsort by urgency\n```","x":-227,"y":-386,"width":453,"height":386,"color":"1"},
+		{"id":"c616e00a23de4b0b","type":"text","text":"## No importante y Urgente (Delegar si se puede)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\ndue before in 7 days\nexclude sub-items\npriority is below none\nsort by urgency\n```","x":-227,"y":0,"width":453,"height":386,"color":"5"},
+		{"id":"164cbee974adb520","type":"text","text":"## No Importante No Urgente (Eliminar si se puede)\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\nno due date\npriority is below none\n```","x":227,"y":0,"width":453,"height":386,"color":"3"},
+		{"id":"2d7b6cfcd3d3d218","type":"text","text":"## Importante No Urgente\n\n```tasks\n(heading includes 📥 Input) OR (heading includes ✏️ Tareas)\nnot done\nexclude sub-items\npriority is above none\nno due date\n```","x":227,"y":-386,"width":453,"height":386,"color":"4"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "f9c5fbe578077875",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4cbc457594b6a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50e1a13487619e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3effd967ebe6363a",
+    "type": "split",
+    "children": [
+      {
+        "id": "985e50930e69c06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f67558117b4454d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0febadcb8a536429",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4802df9c7db2fd77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "dc7091f0c580aafb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ae33358db013bc",
+        "type": "tabs",
+        "dimension": 44.027777777777786,
+        "children": [
+          {
+            "id": "a46797c28e6906b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "81282a54da68075f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.25883865621816277,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e76296a096a8970",
+        "type": "tabs",
+        "dimension": 55.972222222222214,
+        "children": [
+          {
+            "id": "c3b2b6e27e091196",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md"
+              }
+            }
+          },
+          {
+            "id": "08e51b29a6f9f37a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "a46797c28e6906b2",
+  "lastOpenFiles": [
+    "500 🛠️ Recursos/510 👁️ Vistas/🏷️ Etiquetas.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/🗺️ MOCs.md",
+    "600 📂 Archivos/banners/banner19.jpg",
+    "600 📂 Archivos/banners/banner-gif01.gif",
+    "500 🛠️ Recursos/520 🏷️ Etiquetas/🏷️ Nueva etiqueta.md",
+    "600 📂 Archivos/banners/banner01.jpg",
+    "500 🛠️ Recursos/510 👁️ Vistas/📌 Recursos bibliográficos.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/🗃️ Notas literarias.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/📝 Notas.md",
+    "600 📂 Archivos/banners/banner02.gif",
+    "500 🛠️ Recursos/510 👁️ Vistas/🌟 Áreas.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
+    "600 📂 Archivos/banners/banner18.jpg",
+    "600 📂 Archivos/banners/banner02.jpg",
+    "600 📂 Archivos/banners/banner03.jpg",
+    "600 📂 Archivos/banners/banner04.jpg",
+    "600 📂 Archivos/banners/banner06.jpg",
+    "300 🧠 Sistema de notas/320 📝 Notas/Nota 2.md",
+    "300 🧠 Sistema de notas/310 🗺️ Mocs/Test MOC.md",
+    "600 📂 Archivos/canvas/Matriz de tareas.canvas",
+    "500 🛠️ Recursos/510 👁️ Vistas/✏️ Tareas.md",
+    "200 🌟 Áreas/Test Área.md",
+    "600 📂 Archivos/plantillas/430 Nueva nota mensual.md",
+    "600 📂 Archivos/plantillas/410 Nueva nota diaria.md",
+    "600 📂 Archivos/plantillas/420 Nueva nota semanal.md",
+    "100 💼 Proyectos/test proyecto.md",
+    "300 🧠 Sistema de notas/330 📌 Notas bibliográficas/test 2 nuevo recurso bibliográfico.md",
+    "300 🧠 Sistema de notas/340 🗃️ Notas literarias/nueva prueba test.md",
+    "600 📂 Archivos/plantillas/330 Nueva nota bibliográfica.md",
+    "300 🧠 Sistema de notas/330 📌 Notas bibliográficas/Test recurso bibliográfico.md",
+    "2024-06-21.md",
+    "600 📂 Archivos/plantillas/520 Nueva etiqueta.md",
+    "500 🛠️ Recursos/520 🏷️ Etiquetas/🏷️.md",
+    "300 🧠 Sistema de notas/340 🗃️ Notas literarias/Test.md",
+    "600 📂 Archivos/banners/banner30.jpg.crdownload",
+    "600 📂 Archivos/banners/banner29.jpg.crdownload",
+    "600 📂 Archivos/banners/banner28.jpg.crdownload",
+    "600 📂 Archivos/banners/banner27.jpg.crdownload",
+    "600 📂 Archivos/banners/banner26.jpg.crdownload",
+    "600 📂 Archivos/banners/banner25.jpg.~tmp",
+    "600 📂 Archivos/banners/banner25.jpg~RFca2e4df.TMP",
+    "600 📂 Archivos/banners/banner25.jpg.crdownload",
+    "600 📂 Archivos/canvas",
+    "600 📂 Archivos/excalidraw"
+  ]
+}

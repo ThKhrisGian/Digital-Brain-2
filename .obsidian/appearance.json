@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "hide-classes",
+    "hide-metadata",
+    "banner",
+    "hide-metadata-menu-button",
+    "fixed-tables"
+  ]
+}

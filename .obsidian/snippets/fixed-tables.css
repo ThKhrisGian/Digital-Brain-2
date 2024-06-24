@@ -1,0 +1,7 @@
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer table,
+.markdown-source-view.mod-cm6.is-readable-line-width
+  .cm-contentContainer.cm-contentContainer
+  > .cm-content
+  table {
+  width: 100%;
+}
