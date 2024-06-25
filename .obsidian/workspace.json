@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4cbc457594b6a9",
+        "id": "18675ef08cd87043",
         "type": "tabs",
         "children": [
           {
-            "id": "50e1a13487619e6f",
+            "id": "52ddf551b011980b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md"
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+                "file": "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +180,17 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a46797c28e6906b2",
+  "active": "52ddf551b011980b",
   "lastOpenFiles": [
-    "500 🛠️ Recursos/510 👁️ Vistas/🏷️ Etiquetas.md",
+    "600 📂 Archivos/canvas/Matriz de tareas.canvas",
+    "500 🛠️ Recursos/510 👁️ Vistas/✏️ Tareas.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/🌟 Áreas.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
+    "100 💼 Proyectos/test proyecto.md",
+    "600 📂 Archivos/plantillas/330 Nueva nota bibliográfica.md",
+    "README.md",
     "500 🛠️ Recursos/510 👁️ Vistas/🏠 Bienvenid@ 👋.md",
+    "500 🛠️ Recursos/510 👁️ Vistas/🏷️ Etiquetas.md",
     "500 🛠️ Recursos/510 👁️ Vistas/🗺️ MOCs.md",
     "600 📂 Archivos/banners/banner19.jpg",
     "600 📂 Archivos/banners/banner-gif01.gif",
@@ -193,8 +200,6 @@
     "500 🛠️ Recursos/510 👁️ Vistas/🗃️ Notas literarias.md",
     "500 🛠️ Recursos/510 👁️ Vistas/📝 Notas.md",
     "600 📂 Archivos/banners/banner02.gif",
-    "500 🛠️ Recursos/510 👁️ Vistas/🌟 Áreas.md",
-    "500 🛠️ Recursos/510 👁️ Vistas/💼 Proyectos.md",
     "600 📂 Archivos/banners/banner18.jpg",
     "600 📂 Archivos/banners/banner02.jpg",
     "600 📂 Archivos/banners/banner03.jpg",
@@ -202,21 +207,16 @@
     "600 📂 Archivos/banners/banner06.jpg",
     "300 🧠 Sistema de notas/320 📝 Notas/Nota 2.md",
     "300 🧠 Sistema de notas/310 🗺️ Mocs/Test MOC.md",
-    "600 📂 Archivos/canvas/Matriz de tareas.canvas",
-    "500 🛠️ Recursos/510 👁️ Vistas/✏️ Tareas.md",
     "200 🌟 Áreas/Test Área.md",
     "600 📂 Archivos/plantillas/430 Nueva nota mensual.md",
     "600 📂 Archivos/plantillas/410 Nueva nota diaria.md",
     "600 📂 Archivos/plantillas/420 Nueva nota semanal.md",
-    "100 💼 Proyectos/test proyecto.md",
     "300 🧠 Sistema de notas/330 📌 Notas bibliográficas/test 2 nuevo recurso bibliográfico.md",
     "300 🧠 Sistema de notas/340 🗃️ Notas literarias/nueva prueba test.md",
-    "600 📂 Archivos/plantillas/330 Nueva nota bibliográfica.md",
     "300 🧠 Sistema de notas/330 📌 Notas bibliográficas/Test recurso bibliográfico.md",
     "2024-06-21.md",
     "600 📂 Archivos/plantillas/520 Nueva etiqueta.md",
     "500 🛠️ Recursos/520 🏷️ Etiquetas/🏷️.md",
-    "300 🧠 Sistema de notas/340 🗃️ Notas literarias/Test.md",
     "600 📂 Archivos/banners/banner30.jpg.crdownload",
     "600 📂 Archivos/banners/banner29.jpg.crdownload",
     "600 📂 Archivos/banners/banner28.jpg.crdownload",

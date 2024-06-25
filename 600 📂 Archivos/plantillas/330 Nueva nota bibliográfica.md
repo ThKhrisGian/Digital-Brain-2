@@ -7,6 +7,12 @@ Etiquetas:
 tags:
   - 📌
 ---
+
+```button
+name + Nueva nota literaria
+type command
+action QuickAdd: Nueva nota literaria
+```
 ## Información extraída
 ```dataviewjs
 const {fieldModifier: f} =

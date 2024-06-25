@@ -7,5 +7,14 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }
